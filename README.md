@@ -14,4 +14,7 @@ The best scoring (read: best match) document is appended to the original tweet a
 I believe most of the problem with this model stems from the vast search space of the documents. I believe that this model would benefit from full articles, but the current architecture isn't set up for a parallelized task. Expanding this to full documents, as well as more evaluation techniques for the semantic similarity between the tweet and a headline would be very helpful as there are currently many false matches based on the high impact of named entity, which are common in headlines, but lack the relation information for why those NE might be important for this specific tweet or headline. This is begging to be distributed into a MapReduce system, but I don't currently have those resources or access to a nice cluster. :)
 
 Find my presentation here: https://docs.google.com/presentation/d/14DzEpaZDd88BAeNAevnL93XkvSibR2Z4_8r0eQc--_E/edit?usp=sharing
-![System Architecture](sentiment_full_architechture - Page 1.png?raw=true "System Architecture")
+
+<p align="center">
+  <img src="sentiment-with-content/sentiment_full_architechture - Page 1.png" width="350"/>
+</p>
