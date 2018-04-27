@@ -15,6 +15,7 @@ I believe most of the problem with this model stems from the vast search space o
 
 Find my presentation here: https://docs.google.com/presentation/d/14DzEpaZDd88BAeNAevnL93XkvSibR2Z4_8r0eQc--_E/edit?usp=sharing
 
+System architecture is as pictured below:
 <p align="center">
-  <img src="sentiment-with-content/sentiment_full_architechture - Page 1.png" width="350"/>
+  <img src="sentiment_full_architechture - Page 1.png" width="350"/>
 </p>
