@@ -1,0 +1,14 @@
+training.1600000.processed.noemoticon.csv
+
+knowledge_base/all-the-news/*
+knowledge_base/news-aggregator/*
+knowledge_base/reuters-news-wire-archive/*
+knowledge_base/temp_holdout/*
+
+twitter_download-master/4-English_train_dev
+twitter_download-master/output_nonformatted
+
+twitter_2013*
+
+.DS_Store
+.idea/
